@@ -1,0 +1,6 @@
+[template]
+src = "conf.tmpl"
+dest = "config/my-config.json"
+keys = [
+  "/k4" 
+]

@@ -1,0 +1,12 @@
+{
+	"app": {
+		"port": 3003
+	},
+	"db": {
+		"host": "localhost",
+		"port": 26,
+		"name": "eyal"
+	},
+	"password":"112299",
+	"k4":"some-wierd-val-9"
+}
